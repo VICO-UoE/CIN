@@ -1,6 +1,6 @@
 # Who are you referring to? Coreference resolution in image narrations
 
-This repo contains the dataset and the code for [the paper](https://arxiv.org/abs/2211.14563)
+This repo contains the dataset and the code for [the paper](https://arxiv.org/abs/2211.14563).
 
 ## Dataset
 
