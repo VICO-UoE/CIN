@@ -14,6 +14,8 @@ The code and dataset are available for research purpose.
 
 ### CIN Dataset
 
+![](media/cin-dataset.gif)
+
 1. **Download the CIN dataset from [here](https://drive.google.com/drive/folders/1p_v2Mnv_k5i7YsQkH1sbdRZnBn-yRYDB?usp=sharing)** 
 
 2. The folder contains the following files :
@@ -30,16 +32,15 @@ The code and dataset are available for research purpose.
  "query_start_end": "list of start and end index for each phrase/query",
  "cluster": "list of cluster id for each phrase/query",
  "target_bboxes": "list of bounding boxes for each phrase/query (x,y,w,h)"
-
 }
 ```
-- **val_image_ids.json**: image ids for the flickr30k validation set of the [Localized Narratives dataset](https://google.github.io/localized-narratives/)
-- **test_image_ids.json**: image ids for the flickr30k validation set of the [Localized Narratives dataset](https://google.github.io/localized-narratives/)
-- **gold.zip**: gold/ground-truth coreference chain annotations for test/val in the CoNLL format
+- **val_image_ids.json**: image ids for the [flickr30k validation set](https://google.github.io/localized-narratives/)
+- **test_image_ids.json**: image ids for the [flickr30k test set](https://google.github.io/localized-narratives/)
+- **gold.zip**: gold/ground-truth coreference chains for test/val in the CoNLL format
 
 
 ## Contact 
 
-[goel.arushi@gmail.com](goel.arushi@gmail.com)
+Please contact the first author for any queries or concerns at [goel.arushi@gmail.com](goel.arushi@gmail.com).
 
 
